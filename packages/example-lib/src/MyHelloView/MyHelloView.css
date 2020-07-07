@@ -1,0 +1,21 @@
+:local(.hello-local) {
+  border: 1px solid gray;
+  padding: 5px;
+  padding-top: 40px;
+  background: url('./big.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 300px;
+  height: 200px;
+}
+
+:local(.hello-img) {
+  width: 200px;
+  height: 50px;
+  background-color: white;
+}
+
+.hello-global {
+  color: white;
+}
