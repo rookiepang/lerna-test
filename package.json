@@ -1,5 +1,5 @@
 {
-  "name": "react-lib-starter",
+  "name": "lerna-test",
   "version": "1.0.0",
   "description": "React library starter",
   "main": "index.js",
@@ -13,20 +13,8 @@
     "release": "lerna publish",
     "test": "exit 0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/antonybudianto/react-lib-starter.git"
-  },
-  "keywords": [
-    "reactjs",
-    "lib"
-  ],
   "author": "Antony Budianto <antonybudianto@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/antonybudianto/react-lib-starter/issues"
-  },
-  "homepage": "https://github.com/antonybudianto/react-lib-starter#readme",
   "devDependencies": {
     "lerna": "^2.11.0",
     "rimraf": "^2.6.2"
