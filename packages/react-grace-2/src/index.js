@@ -1,1 +1,1 @@
-export * from './MyHelloView/MyHelloView';
+export * from './BDBanner/BDBanner';
