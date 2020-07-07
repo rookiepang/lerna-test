@@ -1,7 +1,7 @@
 {
-  "name": "example-lib",
+  "name": "react-grace-2",
   "version": "0.0.1",
-  "description": "Example lib",
+  "description": "react-grace-2",
   "main": "lib/index.js",
   "files": [
     "lib"

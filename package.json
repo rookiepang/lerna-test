@@ -1,7 +1,7 @@
 {
   "name": "lerna-test",
   "version": "1.0.0",
-  "description": "React library starter",
+  "description": "",
   "main": "index.js",
   "private": true,
   "scripts": {
@@ -13,7 +13,7 @@
     "release": "lerna publish",
     "test": "exit 0"
   },
-  "author": "Antony Budianto <antonybudianto@gmail.com>",
+  "author": "",
   "license": "MIT",
   "devDependencies": {
     "lerna": "^2.11.0",

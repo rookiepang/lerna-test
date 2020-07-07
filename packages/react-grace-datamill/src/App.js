@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { MyHelloView } from 'example-lib';
+import { MyHelloView } from 'react-grace-2';
 
 import logo from './logo.svg';
 import './App.css';
