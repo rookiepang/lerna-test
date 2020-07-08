@@ -1,11 +1,11 @@
 {
   "name": "react-grace-datamill",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "react-grace-2": "^0.0.1",
     "react": "^16.2.0",
     "react-dom": "^16.13.1",
+    "react-grace-2": "^0.0.1",
     "react-scripts": "1.1.4"
   },
   "scripts": {
