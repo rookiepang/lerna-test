@@ -11,12 +11,23 @@
     "build": "lerna run build",
     "prerelease": "npm run build",
     "release": "lerna publish",
-    "test": "exit 0"
+    "test": "exit 0",
+    "start": "webpack-dev-server --mode development --open"
   },
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "react": "16.2.0",
+    "react-dom": "^16.13.1",
     "lerna": "^3.22.1",
-    "rimraf": "^2.6.2"
+    "rimraf": "^2.6.2",
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "@babel/preset-react": "^7.9.4",
+    "babel-loader": "^8.1.0",
+    "html-webpack-plugin": "^4.0.2",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.11.0"
   }
 }
