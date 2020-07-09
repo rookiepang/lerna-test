@@ -19,8 +19,6 @@
   "devDependencies": {
     "react": "16.2.0",
     "react-dom": "^16.13.1",
-    "react-grace-2": "^0.0.4",
-    "react-grace-datamill": "^0.0.4",
     "lerna": "^3.22.1",
     "rimraf": "^2.6.2",
     "@babel/core": "^7.9.0",
