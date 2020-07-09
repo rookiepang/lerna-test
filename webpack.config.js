@@ -9,7 +9,7 @@ module.exports = {
         contentBase: path.join(__dirname, './doc-server/'),
         publicPath: '/',
         host: '127.0.0.1',
-        port: 3000,
+        port: 3001,
         stats: {
             colors: true
         }
