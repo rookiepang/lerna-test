@@ -43,5 +43,6 @@
   "license": "MIT",
   "dependencies": {
     "classnames": "^2.2.6"
-  }
+  },
+  "gitHead": "74846eb8b152dd622b54fe80393ec879660c604a"
 }
